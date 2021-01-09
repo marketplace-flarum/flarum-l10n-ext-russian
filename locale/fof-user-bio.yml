@@ -1,9 +1,9 @@
 fof-user-bio:
     admin:
         permission:
-            view: "Смотреть BIO"
-            editOwn: "Изменять своё BIO"
-            editAny: "Изменять любое BIO"
+            view: "Просмотр статуса"
+            editOwn: "Изменять свой статус"
+            editAny: "Изменять любой статус"
 
     forum:
-        userbioPlaceholder: "Напишите что-нибудь о себе..."
+        userbioPlaceholder: "Обновить свой статус..."
